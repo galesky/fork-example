@@ -3,4 +3,5 @@
 * Otavio  J.
 * Luiz A.
 * Iédio João Carabolante Júnior 
+* Bianca B. 
 *
