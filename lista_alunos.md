@@ -1,6 +1,7 @@
-# Lista de alunos que completaram a atividade
+﻿# Lista de alunos que completaram a atividade
 * Luiz M.
 * Otavio  J.
 * Luiz A.
 * Iédio João Carabolante Júnior 
-*
+* Daniel S. P.
+* 
