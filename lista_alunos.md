@@ -3,4 +3,4 @@
 * Otavio  J.
 * Luiz A.
 * Iédio João Carabolante Júnior 
-*
+* Thalyson Baqueta de Lara
